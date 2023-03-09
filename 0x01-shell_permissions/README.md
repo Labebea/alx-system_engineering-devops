@@ -1,0 +1,1 @@
+learned shell permissions
